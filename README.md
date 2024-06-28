@@ -21,23 +21,23 @@ Establishments with a hygiene score equal to 20:
 - F & S
 
 Establishments in London with a rating value greather than or equal to 4:
--Charlie's
--Mv City Cruises Erasmus
--Benfleet Motor Yacht Club
--Coombs Catering t/a The Lock and Key
--Tilbury Seafarers Centre
--Mv Valulla
--Tereza Joanae
--City Bar & Grill
--WH Smith
--The Nuance Group (UK) Limited
+- Charlie's
+- Mv City Cruises Erasmus
+- Benfleet Motor Yacht Club
+- Coombs Catering t/a The Lock and Key
+- Tilbury Seafarers Centre
+- Mv Valulla
+- Tereza Joanae
+- City Bar & Grill
+- WH Smith
+- The Nuance Group (UK) Limited
 
 The top 5 establishments with a rating value of 5, sorted by lowest hygiene score, nearest Penang Flavours:
--Volunteer
--Plumstead Manor Nursery
--Atlantic Fish Bar
--Iceland
--Howe And Co Fish and Chips -Van 17
+- Volunteer
+- Plumstead Manor Nursery
+- Atlantic Fish Bar
+- Iceland
+- Howe And Co Fish and Chips -Van 17
 
 A count of establishments in each local authority area that have a hygiene score of 0, sorted from highest to lowest:
 - Thanet (1130)
